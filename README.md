@@ -4,7 +4,7 @@ This project demonstrates the 'aggregator' smart contract whose job is to execut
 Here specifically we are executing 2 swap methods of AMMs namely **Uniswap** & **Sushiswap** and in one transaction thanks to the Aggregator Contract.
 This idea can be utilized to create a transaction batcher contract to save gas cost by executing multiple transactions in one. 
 
-<a href="https://github.com/ammarhaiderak/AggregatorContract">See Contract Repo Here</a>
+<a href="https://github.com/ammarhaiderak/AggregatorAPI">See API Repo Here</a>
 
 ## Steps
 ### Run a Mainnet Fork and pick one private key
